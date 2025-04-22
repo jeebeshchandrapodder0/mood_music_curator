@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environment
+venv
+
+# Logs
+logs/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+artifacts/
