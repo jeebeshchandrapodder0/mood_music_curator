@@ -1,0 +1,12 @@
+2025-04-26 00:11:39,709 - INFO - Mood Music Curator Application started.
+2025-04-26 00:11:39,710 - ERROR - An unexpected error occurred: RealTimeFacialAnalyzer.__init__() takes 1 positional argument but 2 were given
+Traceback (most recent call last):
+  File "C:\Users\peopl\Desktop\GenAI Project Data\mood_music_curator\mood_music_curator\main.py", line 9, in main
+    analyzer = RealTimeFacialAnalyzer(logger)
+TypeError: RealTimeFacialAnalyzer.__init__() takes 1 positional argument but 2 were given
+2025-04-26 00:24:17,603 - INFO - Mood Music Curator Application started.
+2025-04-26 00:24:17,604 - ERROR - An unexpected error occurred: RealTimeFacialAnalyzer.__init__() takes 1 positional argument but 2 were given
+Traceback (most recent call last):
+  File "C:\Users\peopl\Desktop\GenAI Project Data\mood_music_curator\mood_music_curator\main.py", line 9, in main
+    analyzer = RealTimeFacialAnalyzer(logger)
+TypeError: RealTimeFacialAnalyzer.__init__() takes 1 positional argument but 2 were given
